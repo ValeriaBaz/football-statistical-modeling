@@ -41,7 +41,7 @@ Estos resultados corresponden al modelo ajustado sobre la muestra analizada. No 
 
 El informe metodológico completo se encuentra disponible en esta carpeta.
 
-**Nombre de archivo :** `informe_regresion_logistica_futbol.pdf`
+**Nombre de archivo :** `informe_regresion_logistica.pdf`
 
 ## Limitaciones
 
